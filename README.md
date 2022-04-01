@@ -20,7 +20,7 @@ It is a Laravel 8 & Vue 3 based SPA demo project (Continue Development). Build w
 
 
 ## Getting Started Step by Step
-1. In your root folder, clone the project file using git clone https://github.com/rafi021/employeemanagement.git
+1. In your root folder, clone the project file using git clone  https://github.com/ojaradonatello/emplyeez.git
 2. Open terminal (bash/cmd). Then go to project folder using command
 
 ```sh
@@ -61,8 +61,8 @@ php artisan migrate:fresh --seed
 
 After completing the migration and seeding of db, you will have 10 user ready for login in this project. 
 A. UserName -> Admin 
-    Email -> admin@gmail.com 
-    Pass -> 12345678
+    Email -> admin@admin.com 
+    Pass -> password
 
 Finally we are ready to run our project using this command 
 
